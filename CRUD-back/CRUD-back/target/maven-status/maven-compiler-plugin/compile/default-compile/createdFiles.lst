@@ -1,0 +1,4 @@
+produtos\Produto.class
+produtos\ProdutoService.class
+config\CrossOriginFilter.class
+config\ApplicationConfig.class
